@@ -1,0 +1,12 @@
+img
+{
+    width: 100px;
+    height: 100px;
+    border-radius: 90%;
+}
+
+.i img
+{
+    width: 10;
+    height: 10;
+}

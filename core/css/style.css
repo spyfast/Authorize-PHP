@@ -1,0 +1,29 @@
+a:link
+{
+  color:#333333;text-decoration:underline;
+}
+
+a:visited
+{
+  color:#333333;text-decoration:underline;
+}
+
+a:hover
+{
+  color:#000000;text-decoration:underline;
+}
+
+#j 
+{
+  border:1px solid #e1e1e1; background-color:#efefef; text-align:justify; padding:3px;
+}
+
+#q
+{
+  border:1px solid #e1e1e1; background-color:#ffffff; text-align:justify; padding:3px;
+}
+
+html, body, td
+{
+  font-family:Tahoma; font-size:13px;
+}
